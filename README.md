@@ -4,6 +4,7 @@ Mockup of vanilla site for @beckibuddin
 ## Local development
 * Clone the repo (either this one or your own fork)
 * Set up Compass to build style.css from the scss folder --> `compass watch` using the config.rb file I've included
+  * http://thesassway.com/beginner/getting-started-with-sass-and-compass
 * Open file `index.html` in your browser  
 * Play with things
 * Use Developer mode in Chrome a lot
